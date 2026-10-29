@@ -2,19 +2,19 @@
 
 I build small tools I want to use myself, mostly around reading, planes and weather. My site is [wptk.org](https://wptk.org).
 
-**Things I've made**
+**Junk**
 
 - [Kipple](https://github.com/WPTK/Kipple): a self-hosted RSS reader with a Google Reader compatible sync API ([kipple.cc](https://kipple.cc))
 - [ADSB-TUI](https://github.com/WPTK/ADSB-TUI): a retro terminal view of the aircraft your ADS-B receiver hears
 - [cfbtui](https://github.com/WPTK/cfbtui): college football scores, rankings and scoring plays in your terminal
-- [GDOTCam](https://github.com/WPTK/GDOTCam): a Georgia DOT traffic camera viewer
-- [ws3kp](https://github.com/WPTK/ws3kp): WeatherStar 3000+
 - Claude skills for decoding [METAR/TAF](https://github.com/WPTK/metar-taf-decoder-skill) and [ACARS](https://github.com/WPTK/acars-decoder-claude-skill) messages and [researching aircraft owners](https://github.com/WPTK/aircraft-research-claude-skill)
 
 **Reading**
 
 <!-- BOOKS:START -->
-**Currently:** 🎧 *Ghosts of the Tsunami: Death and Life in Japan's Disaster Zone* by Richard Lloyd Parry; 📖 *Mexican Gothic* by Silvia Moreno-Garcia
+**Currently:**  
+Audiobook: 🎧 *Ghosts of the Tsunami: Death and Life in Japan's Disaster Zone* by Richard Lloyd Parry  
+eBook: 📖 *Mexican Gothic* by Silvia Moreno-Garcia  
 
 📖 **Last read:** **The Case of the Creepy Castle** by Melinda Metz, Judy Katschke · 316/350 · Oct 23, 2026  
 🎧 **Last listen:** **Dark Archives: A Librarian's Investigation Into the Science and History of Books Bound in Human Skin** by Megan Rosenbloom · 296/350 · Oct 26, 2026  
@@ -25,7 +25,15 @@ I build small tools I want to use myself, mostly around reading, planes and weat
 **Overhead**
 
 <!-- PLANES:START -->
-_The receiver has been quiet since Sep 27, 2026._
+**128 aircraft** heard by my ADS-B receiver in the last 24 hours.
+
+| Top types | | Top carriers | |
+|---|--:|---|--:|
+| Airbus A320 | 10 | American Airlines | 6 |
+| Boeing 737-800 | 9 | JetBlue Airways | 5 |
+| Airbus A220-300 | 8 | Delta Air Lines | 5 |
+| Airbus A321 | 7 | Breeze Airways | 5 |
+| E55P | 7 | Allegiant Air | 4 |
 <!-- PLANES:END -->
 
 **College GameDay this week**

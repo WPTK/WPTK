@@ -31,6 +31,9 @@ TYPES = {
 }
 
 
+FORMATS = {"audio": "Audiobook", "digital": "eBook", "paperback": "Paperback", "hardcover": "Hardcover"}
+
+
 def load_env():
     path = os.path.join(ROOT, "local.env")
     if os.path.exists(path):
@@ -80,8 +83,9 @@ def books():
     now = [r for r in rows if r["Read Status"] == "currently-reading"]
     out = []
     if now:
-        out.append("**Currently:** " + "; ".join(
-            "%s *%s* by %s" % ("🎧" if r["Format"] == "audio" else "📖", r["Title"], r["Authors"]) for r in now))
+        out.append("**Currently:**  ")
+        out += ["%s: %s *%s* by %s  " % (FORMATS.get(r["Format"], "Book"), "🎧" if r["Format"] == "audio" else "📖",
+                                         r["Title"], r["Authors"]) for r in now]
         out.append("")
     if read:
         out.append("📖 **Last read:** " + _book(read, scores) + "  ")
