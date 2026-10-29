@@ -43,30 +43,28 @@ eBook: 📖 *Mexican Gothic* by Silvia Moreno-Garcia
 **Overhead**
 
 <!-- PLANES:START -->
-**165 aircraft** heard by my ADS-B receiver in the last 24 hours.
+**178 aircraft** heard by my ADS-B receiver in the last 24 hours.
 
 | Top types | | Top carriers | |
 |---|--:|---|--:|
-| Airbus A320 | 12 | Southwest Airlines | 9 |
-| Boeing 737 MAX 8 | 11 | Frontier Airlines | 8 |
-| Airbus A220-300 | 10 | American Airlines | 7 |
-| Boeing 737-800 | 10 | JetBlue Airways | 7 |
-| Airbus A321 | 9 | Allegiant Air | 6 |
+| Airbus A320 | 13 | Southwest Airlines | 9 |
+| Boeing 737 MAX 8 | 12 | JetBlue Airways | 8 |
+| Boeing 737-800 | 11 | American Airlines | 8 |
+| Airbus A321 | 10 | Frontier Airlines | 8 |
+| Airbus A220-300 | 10 | Allegiant Air | 6 |
 <!-- PLANES:END -->
 
 </td>
 <td valign="top" width="50%">
 
-**Latest from [the blog](https://blog.wptk.org)**
-
 <!-- BLOG:START -->
-| Date | Title |
-|---|---|
-| Oct 25, 2026 | [Talking Robots: Kipple’s First Two Days](https://blog.wptk.org/2026/10/talking-robots-kipples-first-two-days/) |
-| Oct 20, 2026 | [Adventures in Vibecoding Part 2: Robot Boogaloo (and AI agents get slightly better at coding)](https://blog.wptk.org/2026/10/adventures-in-vibecoding-part-2-robot-boogaloo-and-ai-agents-get-slightly-better-at-coding/) |
-| Oct 17, 2026 | [The Shape of Grief a Decade Later](https://blog.wptk.org/2026/10/the-shape-of-grief-a-decade-later/) |
-| Oct 14, 2026 | [I Wonder What Planes Flew Over When I Was a Kid](https://blog.wptk.org/2026/10/i-wonder-what-planes-flew-over-when-i-was-a-kid/) |
-| Oct 5, 2026 | [Adventures in Vibecoding: Pre-History (Part 1: Replit + Traffic Cams)](https://blog.wptk.org/2026/10/kipple-an-introduction-my-vibecoding-experience-part-0/) |
+**Latest from [Working Copy_final_this_one](https://blog.wptk.org)**
+
+- Oct 25, 2026 | [Talking Robots: Kipple’s First Two Days](https://blog.wptk.org/2026/10/talking-robots-kipples-first-two-days/)
+- Oct 20, 2026 | [Adventures in Vibecoding Part 2: Robot Boogaloo (and AI agents get slightly better at coding)](https://blog.wptk.org/2026/10/adventures-in-vibecoding-part-2-robot-boogaloo-and-ai-agents-get-slightly-better-at-coding/)
+- Oct 17, 2026 | [The Shape of Grief a Decade Later](https://blog.wptk.org/2026/10/the-shape-of-grief-a-decade-later/)
+- Oct 14, 2026 | [I Wonder What Planes Flew Over When I Was a Kid](https://blog.wptk.org/2026/10/i-wonder-what-planes-flew-over-when-i-was-a-kid/)
+- Oct 5, 2026 | [Adventures in Vibecoding: Pre-History (Part 1: Replit + Traffic Cams)](https://blog.wptk.org/2026/10/kipple-an-introduction-my-vibecoding-experience-part-0/)
 <!-- BLOG:END -->
 
 </td>

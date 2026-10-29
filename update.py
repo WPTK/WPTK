@@ -133,11 +133,12 @@ def blog():
     req = urllib.request.Request("https://blog.wptk.org/feed.xml", headers={"User-Agent": UA})
     root = ET.fromstring(urllib.request.urlopen(req, timeout=20).read())
     ns = {"a": "http://www.w3.org/2005/Atom"}
-    out = ["| Date | Title |", "|---|---|"]
+    out = ["**Latest from [%s](https://blog.wptk.org)**" % root.find("a:title", ns).text, ""]
+    # A list, not a table: GitHub sizes tables to their unwrapped width, so long titles overflow the page.
     for e in root.findall("a:entry", ns)[:5]:
         d = dt.date.fromisoformat(e.find("a:published", ns).text[:10])
-        title = e.find("a:title", ns).text.replace("|", r"\|")
-        out.append("| %s, %d | [%s](%s) |" % (_day(d, "%b"), d.year, title, e.find("a:link", ns).get("href")))
+        out.append("- %s, %d | [%s](%s)" % (_day(d, "%b"), d.year, e.find("a:title", ns).text,
+                                           e.find("a:link", ns).get("href")))
     return "\n".join(out)
 
 
