@@ -1,4 +1,4 @@
-### Hi, I'm Bill.
+### YERRRRRR
 
 I build small tools I want to use myself, mostly around reading, planes and weather. My site is [wptk.org](https://wptk.org).
 
