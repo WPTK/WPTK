@@ -1,4 +1,4 @@
-"""Fill the generated sections of README.md: books (StoryGraph export), planes (skystats) and College GameDay (Wikipedia).
+"""Fill the generated sections of README.md: books (StoryGraph export), planes (skystats) and the blog (blog.wptk.org).
 
 Each section sits between <!-- NAME:START --> and <!-- NAME:END --> markers. A source that fails leaves its section
 as it was. With --push, commits and pushes README.md when it changed.
@@ -12,6 +12,7 @@ import re
 import subprocess
 import sys
 import urllib.request
+import xml.etree.ElementTree as ET
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 README = os.path.join(ROOT, "README.md")
@@ -125,43 +126,26 @@ def planes():
     return "\n".join(out)
 
 
-# College GameDay
+# Blog
 
-def _wiki(s):
-    s = re.sub(r"<ref[^>]*/>|<ref.*?</ref>|\{\{efn\|.*\}\}", "", s)
-    s = re.sub(r"\{\{small\|(\d+)\}\}\s*", r"No. \1 ", s)
-    s = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", s)
-    return re.sub(r"'{2,}|<[^>]+>", "", s).strip()
-
-
-def gameday(today=None):
-    today = today or dt.date.today()
-    season = today.year if today.month >= 7 else today.year - 1
-    url = "https://en.wikipedia.org/w/index.php?title=List_of_College_GameDay_(football_TV_program)_locations&action=raw"
-    text = urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=20).read().decode()
-    m = re.search(r"== %d season ==(.*?)\n\|\}" % season, text, re.S)
-    if not m:
-        return "_Off season._"
-    for row in m.group(1).split("\n|-")[1:]:
-        cells = [_wiki(c) for c in re.split(r"\n\|", "\n" + row.strip())[1:]]
-        if len(cells) < 7:
-            continue
-        date, away, _, home, _, city, spot = cells[:7]
-        when = dt.datetime.strptime(date if "," in date else "%s, %d" % (date, season), "%B %d, %Y").date()
-        if when < today:
-            continue
-        if not city:
-            return "_%s: not announced yet._" % _day(when)
-        game = "%s at %s" % (away, home) if away else home
-        return "**%s:** %s, %s%s" % (_day(when), game, city, " (%s)" % spot if spot else "")
-    return "_Season's over._"
+def blog():
+    """The five newest posts in the blog's Atom feed, which lists only published posts (same as the homepage)."""
+    req = urllib.request.Request("https://blog.wptk.org/feed.xml", headers={"User-Agent": UA})
+    root = ET.fromstring(urllib.request.urlopen(req, timeout=20).read())
+    ns = {"a": "http://www.w3.org/2005/Atom"}
+    out = ["| Date | Title |", "|---|---|"]
+    for e in root.findall("a:entry", ns)[:5]:
+        d = dt.date.fromisoformat(e.find("a:published", ns).text[:10])
+        title = e.find("a:title", ns).text.replace("|", r"\|")
+        out.append("| %s, %d | [%s](%s) |" % (_day(d, "%b"), d.year, title, e.find("a:link", ns).get("href")))
+    return "\n".join(out)
 
 
 def main():
     load_env()
     text = open(README, encoding="utf-8").read()
     new = text
-    for name, fn in (("BOOKS", books), ("PLANES", planes), ("GAMEDAY", gameday)):
+    for name, fn in (("BOOKS", books), ("PLANES", planes), ("BLOG", blog)):
         try:
             new = replace(new, name, fn())
         except Exception as e:
