@@ -87,7 +87,7 @@ def books():
     now = [r for r in rows if r["Read Status"] == "currently-reading"]
     out = []
     if now:
-        out.append("**Currently:**  ")
+        out.append("**Current:**  ")
         out += ["%s: %s *%s* by %s  " % (FORMATS.get(r["Format"], "Book"), "🎧" if r["Format"] == "audio" else "📖",
                                          r["Title"], r["Authors"]) for r in now]
         out.append("")

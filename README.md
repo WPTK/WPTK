@@ -25,7 +25,7 @@ I build small tools I want to use myself, mostly around reading, planes and weat
 **Books & Stuff**
 
 <!-- BOOKS:START -->
-**Currently:**  
+**Current:**  
 Audiobook: 🎧 *Ghosts of the Tsunami: Death and Life in Japan's Disaster Zone* by Richard Lloyd Parry  
 eBook: 📖 *Mexican Gothic* by Silvia Moreno-Garcia  
 
@@ -43,15 +43,15 @@ eBook: 📖 *Mexican Gothic* by Silvia Moreno-Garcia
 **Overhead**
 
 <!-- PLANES:START -->
-**147 aircraft** heard by my ADS-B receiver in the last 24 hours.
+**161 aircraft** heard by my ADS-B receiver in the last 24 hours.
 
 | Top types | | Top carriers | |
 |---|--:|---|--:|
-| Airbus A320 | 10 | Southwest Airlines | 9 |
-| Boeing 737-800 | 10 | Frontier Airlines | 7 |
-| Airbus A220-300 | 9 | American Airlines | 7 |
-| Boeing 737 MAX 8 | 8 | Allegiant Air | 6 |
-| Airbus A321 | 8 | Delta Air Lines | 6 |
+| Airbus A320 | 12 | Southwest Airlines | 9 |
+| Boeing 737 MAX 8 | 11 | Frontier Airlines | 8 |
+| Boeing 737-800 | 10 | American Airlines | 7 |
+| Airbus A321 | 9 | Allegiant Air | 6 |
+| Airbus A220-300 | 9 | Delta Air Lines | 6 |
 <!-- PLANES:END -->
 
 </td>
