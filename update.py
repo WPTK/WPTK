@@ -28,6 +28,10 @@ TYPES = {
     "CRJ2": "Bombardier CRJ200", "CRJ7": "Bombardier CRJ700", "CRJ9": "Bombardier CRJ900",
     "E145": "Embraer ERJ-145", "E170": "Embraer E170", "E75L": "Embraer E175", "E75S": "Embraer E175",
     "E190": "Embraer E190", "C172": "Cessna 172", "PC12": "Pilatus PC-12", "C56X": "Cessna Citation Excel",
+    "E55P": "Embraer Phenom 300", "E50P": "Embraer Phenom 100", "E545": "Embraer Legacy 450",
+    "E550": "Embraer Praetor 600", "C68A": "Cessna Citation Latitude", "C700": "Cessna Citation Longitude",
+    "CL35": "Bombardier Challenger 350", "GLF4": "Gulfstream IV", "GLF5": "Gulfstream V", "GLF6": "Gulfstream G650",
+    "BE20": "Beechcraft King Air 200", "B350": "Beechcraft King Air 350", "SR22": "Cirrus SR22",
 }
 
 
