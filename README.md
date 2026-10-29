@@ -29,8 +29,8 @@ I build small tools I want to use myself, mostly around reading, planes and weat
 Audiobook: 🎧 *Ghosts of the Tsunami: Death and Life in Japan's Disaster Zone* by Richard Lloyd Parry  
 eBook: 📖 *Mexican Gothic* by Silvia Moreno-Garcia  
 
-📖 **Last read:** **The Case of the Creepy Castle** by Melinda Metz, Judy Katschke · 316/350 · Oct 23, 2026  
-🎧 **Last listen:** **Dark Archives: A Librarian's Investigation Into the Science and History of Books Bound in Human Skin** by Megan Rosenbloom · 296/350 · Oct 26, 2026  
+📖 **Last read:** *The Case of the Creepy Castle* by Melinda Metz, Judy Katschke · 316/350 · Oct 23, 2026  
+🎧 **Last listen:** *Dark Archives: A Librarian's Investigation Into the Science and History of Books Bound in Human Skin* by Megan Rosenbloom · 296/350 · Oct 26, 2026  
 
 623 books rated so far, all of them at [wptk.org](https://wptk.org/ratings.html).
 <!-- BOOKS:END -->
@@ -43,15 +43,15 @@ eBook: 📖 *Mexican Gothic* by Silvia Moreno-Garcia
 **Overhead**
 
 <!-- PLANES:START -->
-**178 aircraft** heard by my ADS-B receiver in the last 24 hours.
+**195 aircraft** heard by my ADS-B receiver in the last 24 hours.
 
 | Top types | | Top carriers | |
 |---|--:|---|--:|
-| Airbus A320 | 13 | Southwest Airlines | 9 |
-| Boeing 737 MAX 8 | 12 | JetBlue Airways | 8 |
-| Boeing 737-800 | 11 | American Airlines | 8 |
+| Boeing 737 MAX 8 | 14 | Southwest Airlines | 10 |
+| Airbus A320 | 13 | American Airlines | 9 |
+| Boeing 737-800 | 11 | JetBlue Airways | 8 |
 | Airbus A321 | 10 | Frontier Airlines | 8 |
-| Airbus A220-300 | 10 | Allegiant Air | 6 |
+| Airbus A220-300 | 10 | Delta Air Lines | 7 |
 <!-- PLANES:END -->
 
 </td>

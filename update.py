@@ -68,7 +68,7 @@ def _day(d, month="%B"):
 
 
 def _book(r, scores):
-    line = "**%s** by %s" % (r["Title"], r["Authors"])
+    line = "*%s* by %s" % (r["Title"], r["Authors"])
     score = scores.get(_key(r["Title"]))
     if score:
         line += " · %s" % score
