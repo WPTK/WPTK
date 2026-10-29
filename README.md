@@ -10,6 +10,7 @@ I build small tools I want to use myself, mostly around reading, planes and weat
 
 - [Kipple](https://github.com/WPTK/Kipple): a self-hosted RSS reader with a Google Reader compatible sync API ([kipple.cc](https://kipple.cc))
 - [ADSB-TUI](https://github.com/WPTK/ADSB-TUI): a retro terminal view of the aircraft your ADS-B receiver hears
+- [bell-system-sim](https://github.com/WPTK/bell-system-sim): work a Bell System repair test desk on a UNIX V7 terminal in 1983, weeks before divestiture
 - [cfbtui](https://github.com/WPTK/cfbtui): college football scores, rankings and scoring plays in your terminal
 - Claude skills for decoding [METAR/TAF](https://github.com/WPTK/metar-taf-decoder-skill) and [ACARS](https://github.com/WPTK/acars-decoder-claude-skill) messages and [researching aircraft owners](https://github.com/WPTK/aircraft-research-claude-skill)
 
