@@ -25,15 +25,15 @@ eBook: 📖 *Mexican Gothic* by Silvia Moreno-Garcia
 **Overhead**
 
 <!-- PLANES:START -->
-**129 aircraft** heard by my ADS-B receiver in the last 24 hours.
+**135 aircraft** heard by my ADS-B receiver in the last 24 hours.
 
 | Top types | | Top carriers | |
 |---|--:|---|--:|
-| Airbus A320 | 10 | American Airlines | 6 |
-| Airbus A220-300 | 9 | Allegiant Air | 5 |
-| Boeing 737-800 | 9 | Delta Air Lines | 5 |
-| Airbus A321 | 7 | Breeze Airways | 5 |
-| Embraer Phenom 300 | 7 | JetBlue Airways | 5 |
+| Boeing 737-800 | 10 | American Airlines | 6 |
+| Airbus A320 | 10 | Allegiant Air | 5 |
+| Airbus A220-300 | 9 | Delta Air Lines | 5 |
+| Airbus A321 | 8 | Breeze Airways | 5 |
+| Boeing 737 MAX 8 | 7 | JetBlue Airways | 5 |
 <!-- PLANES:END -->
 
 **College GameDay this week**
@@ -41,3 +41,9 @@ eBook: 📖 *Mexican Gothic* by Silvia Moreno-Garcia
 <!-- GAMEDAY:START -->
 **October 31:** Minnesota at No. 4 Indiana, Bloomington, Indiana (Next to Showalter Fountain)
 <!-- GAMEDAY:END -->
+
+**Where else to find me**
+
+- [gawx.cc](https://gawx.cc)
+- [kipple.cc](https://kipple.cc)
+- [adsb.cc](https://adsb.cc)
