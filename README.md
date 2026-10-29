@@ -48,15 +48,15 @@ eBook: 📖 *Mexican Gothic* by Silvia Moreno-Garcia
 **Overhead**
 
 <!-- PLANES:START -->
-**195 aircraft** heard by my ADS-B receiver in the last 24 hours.
+**1,793 aircraft** heard by my ADS-B receiver in the last 24 hours.
 
 | Top types | | Top carriers | |
 |---|--:|---|--:|
-| Boeing 737 MAX 8 | 14 | Southwest Airlines | 10 |
-| Airbus A320 | 13 | American Airlines | 9 |
-| Boeing 737-800 | 11 | JetBlue Airways | 8 |
-| Airbus A321 | 10 | Frontier Airlines | 8 |
-| Airbus A220-300 | 10 | Delta Air Lines | 7 |
+| Boeing 737-800 | 124 | American Airlines | 113 |
+| Boeing 737 MAX 8 | 113 | Southwest Airlines | 111 |
+| Airbus A321 | 106 | United Airlines | 93 |
+| Airbus A320 | 87 | Delta Air Lines | 88 |
+| Airbus A321neo | 67 | Allegiant Air | 59 |
 <!-- PLANES:END -->
 
 </td>
