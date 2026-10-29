@@ -2,6 +2,9 @@
 
 I build small tools I want to use myself, mostly around reading, planes and weather. My site is [wptk.org](https://wptk.org).
 
+20+ years in knowledge management, technical writing, instructional design and facilitation.  
+A.S. Political Science, College of Coastal Georgia · B.Ed. Workforce Education & Development, Valdosta State · MLIS, Valdosta State (starting Fall 2027)
+
 <table>
 <tr>
 <td valign="top" width="50%">
