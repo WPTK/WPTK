@@ -31,13 +31,13 @@ I build small tools I want to use myself, mostly around reading, planes and weat
 
 <!-- BOOKS:START -->
 **Current:**  
-Audiobook: 🎧 *Ghosts of the Tsunami: Death and Life in Japan's Disaster Zone* by Richard Lloyd Parry  
-eBook: 📖 *Mexican Gothic* by Silvia Moreno-Garcia  
+eBook: 📖 *As You Wake, Break the Shell* by Becky Chambers  
+Audiobook: 🎧 *Over/Under: An Unexpected History of Sports Betting* by David Bockino  
 
-📖 **Last read:** *The Case of the Creepy Castle* by Melinda Metz, Judy Katschke · 316/350 · Oct 23, 2026  
-🎧 **Last listen:** *Dark Archives: A Librarian's Investigation Into the Science and History of Books Bound in Human Skin* by Megan Rosenbloom · 296/350 · Oct 26, 2026  
+📖 **Last read:** *Mexican Gothic* by Silvia Moreno-Garcia · 72/350 · Oct 28, 2026  
+🎧 **Last listen:** *Smokejumper: A Memoir by One of America's Most Select Airborne Firefighters* by Jason A. Ramos, Julian Smith · 322/350 · Nov 2, 2026  
 
-623 books rated so far, all of them at [wptk.org](https://wptk.org/ratings.html).
+628 books rated so far, all of them at [wptk.org](https://wptk.org/ratings.html).
 <!-- BOOKS:END -->
 
 </td>
@@ -48,15 +48,15 @@ eBook: 📖 *Mexican Gothic* by Silvia Moreno-Garcia
 **Overhead**
 
 <!-- PLANES:START -->
-**2,662 aircraft** heard by my ADS-B receiver in the last 24 hours.
+**2,330 aircraft** heard by my ADS-B receiver in the last 24 hours.
 
 | Top types | | Top carriers | |
 |---|--:|---|--:|
-| Boeing 737-800 | 254 | Southwest Airlines | 265 |
-| Boeing 737 MAX 8 | 200 | American Airlines | 231 |
-| Airbus A321 | 168 | Delta Air Lines | 191 |
-| Airbus A320 | 132 | United Airlines | 170 |
-| Airbus A321neo | 111 | JetBlue Airways | 110 |
+| Boeing 737-800 | 218 | Southwest Airlines | 260 |
+| Boeing 737 MAX 8 | 205 | American Airlines | 184 |
+| Airbus A321 | 132 | Delta Air Lines | 159 |
+| Airbus A320 | 115 | United Airlines | 146 |
+| Boeing 737-700 | 84 | JetBlue Airways | 81 |
 <!-- PLANES:END -->
 
 </td>
