@@ -48,15 +48,15 @@ Audiobook: 🎧 *Over/Under: An Unexpected History of Sports Betting* by David B
 **Overhead**
 
 <!-- PLANES:START -->
-**2,897 aircraft** heard by my ADS-B receiver in the last 24 hours.
+**3,137 aircraft** heard by my ADS-B receiver in the last 24 hours.
 
 | Top types | | Top carriers | |
 |---|--:|---|--:|
-| Boeing 737-800 | 243 | Southwest Airlines | 273 |
-| Boeing 737 MAX 8 | 223 | American Airlines | 239 |
-| Airbus A321 | 164 | Delta Air Lines | 197 |
-| Airbus A320 | 130 | United Airlines | 156 |
-| Boeing 737-900 | 99 | JetBlue Airways | 92 |
+| Boeing 737-800 | 281 | American Airlines | 280 |
+| Boeing 737 MAX 8 | 246 | Southwest Airlines | 278 |
+| Airbus A321 | 172 | Delta Air Lines | 212 |
+| Airbus A320 | 146 | United Airlines | 198 |
+| Airbus A321neo | 113 | JetBlue Airways | 140 |
 <!-- PLANES:END -->
 
 </td>
