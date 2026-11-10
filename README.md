@@ -32,12 +32,12 @@ I build small tools I want to use myself, mostly around reading, planes and weat
 <!-- BOOKS:START -->
 **Current:**  
 eBook: 📖 *As You Wake, Break the Shell* by Becky Chambers  
-Audiobook: 🎧 *Over/Under: An Unexpected History of Sports Betting* by David Bockino  
+Audiobook: 🎧 *Den of Thieves* by James B. Stewart  
 
 📖 **Last read:** *Mexican Gothic* by Silvia Moreno-Garcia · 72/350 · Oct 28, 2026  
-🎧 **Last listen:** *Smokejumper: A Memoir by One of America's Most Select Airborne Firefighters* by Jason A. Ramos, Julian Smith · 322/350 · Nov 2, 2026  
+🎧 **Last listen:** *The Chairman's Lounge: The inside story of how Qantas sold us out* by Joe Aston · 219/350 · Nov 9, 2026  
 
-628 books rated so far, all of them at [wptk.org](https://wptk.org/ratings.html).
+630 books rated so far, all of them at [wptk.org](https://wptk.org/ratings.html).
 <!-- BOOKS:END -->
 
 </td>
@@ -48,15 +48,15 @@ Audiobook: 🎧 *Over/Under: An Unexpected History of Sports Betting* by David B
 **Overhead**
 
 <!-- PLANES:START -->
-**2,971 aircraft** heard by my ADS-B receiver in the last 24 hours.
+**2,758 aircraft** heard by my ADS-B receiver in the last 24 hours.
 
 | Top types | | Top carriers | |
 |---|--:|---|--:|
-| Boeing 737-800 | 253 | Southwest Airlines | 277 |
-| Boeing 737 MAX 8 | 224 | American Airlines | 240 |
-| Airbus A321 | 153 | Delta Air Lines | 201 |
-| Airbus A320 | 141 | United Airlines | 171 |
-| Airbus A321neo | 100 | JetBlue Airways | 108 |
+| Boeing 737-800 | 240 | Southwest Airlines | 280 |
+| Boeing 737 MAX 8 | 229 | American Airlines | 239 |
+| Airbus A321 | 164 | Delta Air Lines | 206 |
+| Airbus A320 | 129 | United Airlines | 166 |
+| Airbus A321neo | 99 | JetBlue Airways | 99 |
 <!-- PLANES:END -->
 
 </td>
