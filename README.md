@@ -48,15 +48,15 @@ Audiobook: 🎧 *Den of Thieves* by James B. Stewart
 **Overhead**
 
 <!-- PLANES:START -->
-**2,758 aircraft** heard by my ADS-B receiver in the last 24 hours.
+**2,525 aircraft** heard by my ADS-B receiver in the last 24 hours.
 
 | Top types | | Top carriers | |
 |---|--:|---|--:|
-| Boeing 737-800 | 240 | Southwest Airlines | 280 |
-| Boeing 737 MAX 8 | 229 | American Airlines | 239 |
-| Airbus A321 | 164 | Delta Air Lines | 206 |
-| Airbus A320 | 129 | United Airlines | 166 |
-| Airbus A321neo | 99 | JetBlue Airways | 99 |
+| Boeing 737-800 | 217 | Southwest Airlines | 260 |
+| Boeing 737 MAX 8 | 191 | American Airlines | 218 |
+| Airbus A321 | 143 | Delta Air Lines | 207 |
+| Airbus A321neo | 96 | United Airlines | 158 |
+| Airbus A320 | 91 | JetBlue Airways | 89 |
 <!-- PLANES:END -->
 
 </td>
