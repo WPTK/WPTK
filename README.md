@@ -48,15 +48,15 @@ Audiobook: 🎧 *Den of Thieves* by James B. Stewart
 **Overhead**
 
 <!-- PLANES:START -->
-**2,427 aircraft** heard by my ADS-B receiver in the last 24 hours.
+**2,454 aircraft** heard by my ADS-B receiver in the last 24 hours.
 
 | Top types | | Top carriers | |
 |---|--:|---|--:|
-| Boeing 737-800 | 211 | Southwest Airlines | 201 |
-| Boeing 737 MAX 8 | 174 | American Airlines | 182 |
-| Airbus A321 | 140 | Delta Air Lines | 174 |
-| Airbus A320 | 103 | United Airlines | 149 |
-| Airbus A321neo | 83 | JetBlue Airways | 90 |
+| Boeing 737-800 | 232 | Southwest Airlines | 239 |
+| Boeing 737 MAX 8 | 191 | Delta Air Lines | 180 |
+| Airbus A321 | 132 | United Airlines | 169 |
+| Airbus A321neo | 97 | American Airlines | 147 |
+| Airbus A320 | 95 | JetBlue Airways | 73 |
 <!-- PLANES:END -->
 
 </td>
@@ -65,11 +65,11 @@ Audiobook: 🎧 *Den of Thieves* by James B. Stewart
 <!-- BLOG:START -->
 **Latest from [Working Copy_final_this_one](https://blog.wptk.org)**
 
+- Nov 14, 2026 | [My 24 hours as a doomer](https://blog.wptk.org/2026/11/my-24-hours-as-a-doomer/)
 - Oct 25, 2026 | [Talking Robots: Kipple’s First Two Days](https://blog.wptk.org/2026/10/talking-robots-kipples-first-two-days/)
 - Oct 20, 2026 | [Adventures in Vibecoding Part 2: Robot Boogaloo (and AI agents get slightly better at coding)](https://blog.wptk.org/2026/10/adventures-in-vibecoding-part-2-robot-boogaloo-and-ai-agents-get-slightly-better-at-coding/)
 - Oct 17, 2026 | [The Shape of Grief a Decade Later](https://blog.wptk.org/2026/10/the-shape-of-grief-a-decade-later/)
 - Oct 14, 2026 | [I Wonder What Planes Flew Over When I Was a Kid](https://blog.wptk.org/2026/10/i-wonder-what-planes-flew-over-when-i-was-a-kid/)
-- Oct 5, 2026 | [Adventures in Vibecoding: Pre-History (Part 1: Replit + Traffic Cams)](https://blog.wptk.org/2026/10/kipple-an-introduction-my-vibecoding-experience-part-0/)
 <!-- BLOG:END -->
 
 </td>
