@@ -48,15 +48,15 @@ Audiobook: 🎧 *Empire of the Air: The Men Who Made Radio* by Tom Lewis
 **Overhead**
 
 <!-- PLANES:START -->
-**2,825 aircraft** heard by my ADS-B receiver in the last 24 hours.
+**2,523 aircraft** heard by my ADS-B receiver in the last 24 hours.
 
 | Top types | | Top carriers | |
 |---|--:|---|--:|
-| Boeing 737-800 | 241 | Southwest Airlines | 269 |
-| Boeing 737 MAX 8 | 233 | American Airlines | 250 |
-| Airbus A321 | 177 | Delta Air Lines | 227 |
-| Airbus A320 | 124 | United Airlines | 171 |
-| Airbus A321neo | 110 | JetBlue Airways | 113 |
+| Boeing 737-800 | 238 | Southwest Airlines | 266 |
+| Boeing 737 MAX 8 | 196 | American Airlines | 242 |
+| Airbus A321 | 171 | Delta Air Lines | 204 |
+| Airbus A321neo | 102 | United Airlines | 163 |
+| Boeing 737-900 | 94 | JetBlue Airways | 100 |
 <!-- PLANES:END -->
 
 </td>
